@@ -1,0 +1,12 @@
+body {
+    color: lightblue
+}
+
+
+/* for footer down */
+
+.footer {
+    height: 50px;
+    Margin-top: -50px;
+    clear: both;
+}
